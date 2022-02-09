@@ -1,0 +1,11 @@
+#biggest of two numbers
+a=int(input('enter first number:'))
+b=int(input('enter second number:'))
+if a>b:
+     print('a is biggest than b')
+else:
+    print('b is biggest than a'))
+output:
+enter first number:78
+enter second number:55
+a is biggest than b
